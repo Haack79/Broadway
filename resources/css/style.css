@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: Helvetica, sans-serif;
 }
-#header {
+.background {
     background-image: url("/Users/haack79/Codecademy_Projects/Broadway/resources/images/the-flatiron-building.png");
     font-size: cover;
 }
@@ -25,4 +25,20 @@ h3 {
 }
 .lines {
     font-size: 14px; 
+}
+#designed {
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+}
+#footer {
+    background-color: dimgray;
+}
+nav {
+    text-align: left;
+}
+span {
+    font-size: 11px;
+    color: white;
+
 }
